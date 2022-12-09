@@ -1,4 +1,4 @@
-package decorator;
+package task2;
 
 
 public class Main {

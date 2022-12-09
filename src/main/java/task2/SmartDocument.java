@@ -1,4 +1,4 @@
-package decorator;
+package task2;
 
 import com.google.cloud.vision.v1.AnnotateImageRequest;
 import com.google.cloud.vision.v1.AnnotateImageResponse;
